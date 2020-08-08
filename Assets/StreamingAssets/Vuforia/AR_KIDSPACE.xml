@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="zvezda" size="2.000000 2.666667" />
+    <ImageTarget name="MTS" size="2.000000 0.735421" />
+    <ImageTarget name="anten" size="2.000000 1.407407" />
+    <ImageTarget name="smartphone" size="2.000000 1.575540" />
+    <ImageTarget name="battery" size="2.000000 1.375207" />
+    <ImageTarget name="sputnik" size="2.000000 1.314702" />
+    <ImageTarget name="station" size="2.000000 1.407072" />
+    <ImageTarget name="Sim" size="1.000000 0.889671" />
+  </Tracking>
+</QCARConfig>
